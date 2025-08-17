@@ -79,8 +79,8 @@ Si vous souhaitez contribuer ou construire l'application depuis les sources :
 Voici notre vision pour l'avenir d'Atomic-Hydra. Les contributions sont les bienvenues !
 
 * [x] Noyau de l'application et architecture modulaire
-* [x] Intégration itch.io et YouTube Music
-* [ ] **Intégrations de nouvelles plateformes :** GOG, Epic Games Store, etc.
+* [ ] Intégration itch.io et YouTube Music
+* [X] **Intégrations de nouvelles plateformes :** GOG, Epic Games Store, etc.
 * [ ] **Système de plugins :** Permettre à la communauté de créer ses propres "atomes".
 * [ ] **Personnalisation avancée :** Thèmes, agencement des modules, etc.
 * [ ] **Amélioration des performances** et réduction de l'empreinte mémoire.
