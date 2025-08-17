@@ -1,0 +1,22 @@
+{
+  "name": "atomic-hydra",
+  "version": "1.0.0",
+  "description": "Votre bureau numérique. Unifié. Modulaire. Fiable.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vdf-parser": "^1.2.1",
+    "vue": "^3.4.31",
+    "winreg": "^1.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "electron": "^31.2.1",
+    "vite": "^5.3.3"
+  }
+}
